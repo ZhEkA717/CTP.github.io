@@ -1,0 +1,44 @@
+p{
+    text-indent: 30px;
+    line-height: 45px;
+    /* font-family: Arial;
+    font-size: 15px;
+    font-style: italic; */
+    font: italic bold 16px/30px Arial;
+    text-align: justify;
+  color: red;
+}
+h1{
+    font: normal normal 20 px/30px Verdana;
+    font-weight: normal;
+    text-align: center;
+    width: 300px;
+    color: green;
+}
+h2{
+    font-family: Times New Roman;
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: right;
+    color: blue;
+    font-style: italic;
+}
+h3{
+    font-family: Georgia;
+    color: orange;
+}
+table{
+    vertical-align: top;
+    width: 400px;
+    height: 200px;
+}
+th{
+    vertical-align: middle;
+    font-weight: normal;
+    text-align: left;
+}
+td{
+    font-weight: bold;
+    text-align: center;
+}

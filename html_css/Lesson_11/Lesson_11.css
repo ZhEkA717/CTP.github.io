@@ -1,0 +1,343 @@
+#list1{
+    color: blue;
+}
+#list1 a:link,#list1 a:visited{
+    color: blue;
+    text-decoration: none;
+}
+#list1 a:hover{
+    color: red;
+    text-decoration: underline;
+}
+#list1{
+    margin: 30px;
+}
+#list2{
+    margin: 30px;
+
+}
+#list3{
+    margin: 30px;
+
+}
+#list4{
+    margin: 30px;
+
+}
+#list2 ul{
+    list-style-type: none;
+}
+#list2 a:link,#list2 a:visited{
+    color: blue;
+    text-decoration: none;
+}
+#list2 a:hover{
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+#li1{
+    width: 200px;
+border: 1px solid blue;
+padding: 5px;
+margin-bottom: 5px;
+}
+#li2{
+    width: 200px;
+border: 1px solid blue;
+padding: 5px;
+margin-bottom: 5px;
+}
+#li3{
+    width: 200px;
+border: 1px solid blue;
+padding: 5px;
+margin-bottom: 5px;
+}
+#li4{
+    width: 200px;
+border: 1px solid blue;
+padding: 5px;
+margin-bottom: 5px;
+}
+#li5{
+    width: 200px;
+border: 1px solid blue;
+padding: 5px;
+margin-bottom: 5px;
+}
+
+#list3 ul {
+    list-style-type: none;
+    width: 250px;
+}
+#list3 li {
+    margin-bottom: 5px;
+}
+#list3 a:link, #list3 a:visited {
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    display: block;
+    
+    background-color: #484848;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+
+#list3 a:hover {
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    display: block;
+    
+    background-color:white;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+
+#list4 ul{
+    list-style-type: none;
+    width: 250px;
+}
+#list4 li a:link,#list4 li a:visited{
+    text-decoration: none;
+    color: white;
+    border: 1px solid rgb(0, 132, 255);
+    display: block;
+    
+    background-color:rgb(0, 132, 255);
+    font-weight: bold;
+    padding: 10px 30px;
+}
+#list4 li {
+    margin-bottom: 5px;
+}
+#list4 #news a:link,#list4 #news a:visited{
+    text-decoration: none;
+    color: blue;
+    border: 1px solid rgb(0, 132, 255);
+    display: block;
+    background-color: white;
+    background-image: url('plain.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-weight: bold;
+    padding: 10px 30px;
+}
+
+    #list4 li a:hover{
+        text-decoration: none;
+    color: blue;
+    border: 1px solid rgb(0, 132, 255);
+    display: block;
+    background-color: white;
+    background-image: url('plain.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    font-weight: bold;
+    padding: 10px 30px;
+    }   
+ #list5 ul{
+     list-style-type: none;
+ }
+
+    #list5 li{
+        float: left;
+        margin-right: 5px;
+        margin-bottom: 10px;
+    }
+    #list5 a:link,a:visited{
+        text-decoration: none;
+        color: blue;
+        border: 1px solid blue;
+        padding: 5px 10px;
+    }
+    #list5 a:hover{
+        text-decoration: none;
+        color: red;
+        border: 1px solid blue;
+        padding: 5px 10px;
+    }
+
+    #list6 ul{
+        margin-top: 100px;
+    }
+    #list6 li{
+        display: inline-block;
+    }
+    #list6 a:link,#list6 a:visited{
+        color: blue;
+        display: block;
+        border: 1px solid blue;
+        text-decoration: none;
+        padding: 5px 10px;
+    }
+    #list6 #news1 a:link,#list6 #news1 a:visited{
+        color: white;
+        display: block;
+        border: 1px solid blue;
+        text-decoration: none;
+        padding: 5px 10px; 
+        background-color: rgb(54, 54, 54);
+    }
+    #list6 a:hover{
+        color: white;
+        display: block;
+        border: 1px solid blue;
+        text-decoration: none;
+        padding: 5px 10px; 
+        background-color: rgb(54, 54, 54);
+    }
+    #list9 .grey a:link,#list9 .grey a:visited{
+        color: grey;
+        text-decoration: none;
+        text-align: justify;
+    }
+    #list9 #bold a:link,#list9 #bold a:visited{
+        font-weight: bold ;
+    }
+    #list9 .blue a:link,#list9 .blue a:visited{
+        color: rgb(0, 140, 255);
+        text-decoration: none;
+    }
+    #list9 #red a:link,#list9 #red a:visited{
+        color: red;
+        text-decoration: none;
+    }
+    #list9 .grey a:hover{
+        color: grey;
+        text-decoration: underline;
+        text-align: justify;
+    }
+    #list9 .blue a:hover{
+        color: rgb(0, 140, 255);
+        text-decoration: underline;
+    }
+    #list9 #red a:hover{
+        color: red;
+        text-decoration: underline;
+    }
+    #list9 .center{
+text-align: center;
+    }
+ 
+    #list9 #bold td{
+        border-bottom: 1px solid black;
+    }
+    #list8 ul{
+        list-style-type: none;
+    }
+    #list8 li{
+        display: inline-block;
+        
+    }
+    #list8{
+        background-color: orange;
+       
+    }
+    #list8 a:link,#list8 a:visited{
+        color: white;
+        text-decoration: NONE;
+        display: block;
+        padding: 0px 10px;
+        line-height: 35px;
+        
+
+    }
+    #list8 a:hover{
+        color:white;
+        text-decoration: NONE;
+        display: block;
+        line-height: 35px;
+        background-color: red;
+        padding: 0px 10px;
+        
+    }
+
+#list7 a{
+    padding-top: 30px;
+    display: block;
+}
+#list7 li{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+#list7 ul{
+    list-style-type: none;
+}
+#list7 #li6 a:link,#list7 #li6 a:visited{
+    
+    background:url("1.png") no-repeat top center;
+    
+
+}
+#list7 #li7 a:link,#list7 #li7 a:visited{
+    
+    background:url("2.png") no-repeat top center;
+
+}
+#list7 #li8 a:link,#list7 #li8 a:visited{
+    
+    background:url("3.png") no-repeat top center;
+
+}
+#list7 #li9 a:link,#list7 #li9 a:visited{
+    
+    background:url("4.png") no-repeat top center;
+
+}
+#list7 #li10 a:link,#list7 #li10 a:visited{
+    
+    background:url("5.png") no-repeat top center;
+
+}
+#list7 #li6 a:hover{
+    
+    background:url("1-h.png") no-repeat top center;
+    
+
+}
+#list7 #li7 a:hover{
+    
+    background:url("2-h.png") no-repeat top center;
+
+}
+#list7 #li8 a:hover{
+    
+    background:url("3-h.png") no-repeat top center;
+
+}
+#list7 #li9 a:hover{
+    
+    background:url("4-h.png") no-repeat top center;
+
+}
+#list7 #li10 a:hover{
+    
+    background:url("5-h.png") no-repeat top center;
+
+}
+#list7 a:link,#list7 a:visited{
+    text-decoration: none;
+    color: rgb(116, 112, 112);
+}
+#list7 a:hover{
+    text-decoration: none;
+    color:  rgb(0, 140, 255);
+}
+  
+    
+   
+    
+
+   
+
+   
+
+    
+
+
+
+

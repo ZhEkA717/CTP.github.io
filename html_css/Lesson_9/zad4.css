@@ -1,0 +1,12 @@
+body{
+    background-image: url('zad4.png');
+    background-attachment: fixed;
+}
+body p{
+    color: white;
+    font-size: larger;
+    
+}
+body h1{
+    color: white;
+}
